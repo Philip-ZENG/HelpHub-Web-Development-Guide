@@ -1,8 +1,3 @@
----
-description: >-
-  They say that you become even more confused after you learn HTML, CSS, and
-  JavaScript.
----
 
 # Week 2：了解HTML, CSS, JavaScript
 
