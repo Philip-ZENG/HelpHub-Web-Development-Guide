@@ -1,6 +1,3 @@
----
-description: 这是HelpHub技术部门学习关于小程序和网页的一篇导引文章。
----
 
 # HelpHub Develop Guide
 
