@@ -1,4 +1,4 @@
-# Week 1：学习使用GitHub & 初步了解网页开发
+# Chapter 1：学习使用GitHub & 初步了解网页开发
 
 
 
