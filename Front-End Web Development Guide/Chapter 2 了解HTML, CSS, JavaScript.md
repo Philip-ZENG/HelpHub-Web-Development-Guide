@@ -1,5 +1,5 @@
 
-# Week 2：了解HTML, CSS, JavaScript
+# Chapter 2：了解HTML, CSS, JavaScript
 
 
 
