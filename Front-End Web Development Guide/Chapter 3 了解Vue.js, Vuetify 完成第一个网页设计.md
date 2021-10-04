@@ -1,4 +1,4 @@
-# Week 3：了解Vue.js, Vuetify 完成第一个网页设计
+# Chapter 3：了解Vue.js, Vuetify 完成第一个网页设计
 
 
 
