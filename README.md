@@ -9,22 +9,10 @@
 
 ## 网页前端开发入门指南目录
 
-- Week 1：学习使用GitHub & 初步了解网页开发
-- Week 2：了解HTML, CSS, JavaScript
-- Week 3：了解Vue.js, Vuetify 并完成第一个网页设计
+- Chapter 1：学习使用GitHub & 初步了解网页开发
+- Chapter 2：了解HTML, CSS, JavaScript
+- Chapter 3：了解Vue.js, Vuetify 并完成第一个网页设计
 
 
 
-
-
-## 技术栈分类
-
-* 前端设计
-  * HTML, JavaScript, CSS
-  * Vue.js (Vuetify)
-* 后端
-* 微信小程序
-  * 结构
-  * API调用方式
-  * 官方文档：
 
